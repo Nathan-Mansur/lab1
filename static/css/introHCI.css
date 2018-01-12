@@ -32,3 +32,28 @@ body {
      position: absolute;
      z-index: -1;
 }
+
+.project {
+     margin-left: 20px;
+}
+
+#profile_pic {
+     width: 300px;
+     height: 300px;
+}
+
+.horizontal_picture {
+     width: 520px;
+     height: 280px;
+     margin: 20px;
+}
+
+.vertical_picture {
+     width: 300px;
+     height: 388px;
+     margin: 20px;
+}
+
+.project_text {
+     margin-left: 20px;
+}
